@@ -1,0 +1,23 @@
+{
+  "name": "xava-color-theme",
+  "displayName": "xavaTheme",
+  "description": "Fork of Material Community Dark",
+  "publisher": "atagulalan",
+  "version": "0.0.2",
+  "repository": "https://github.com/atagulalan/xava-color-theme.git",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xava Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xava-color-theme.json"
+      }
+    ]
+  }
+}
