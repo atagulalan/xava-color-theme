@@ -1,5 +1,36 @@
 {
-  "cSpell.words": [
-    "xavatheme"
-  ]
+  "cSpell.words": ["xavatheme"],
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#00a7db",
+    "statusBar.background": "#00a7db",
+    "statusBar.noFolderBackground": "#00a7db",
+    "statusBar.debuggingBackground": "#00a7db",
+    "statusBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffff",
+    "activityBarBadge.background": "#00a7db",
+    "list.activeSelectionForeground": "#00a7db",
+    "list.inactiveSelectionForeground": "#00a7db",
+    "list.highlightForeground": "#00a7db",
+    "scrollbarSlider.activeBackground": "#00a7db",
+    "editorSuggestWidget.highlightForeground": "#00a7db",
+    "textLink.foreground": "#00a7db",
+    "progressBar.background": "#00a7db",
+    "pickerGroup.foreground": "#00a7db",
+    "notificationLink.foreground": "#00a7db",
+    "settings.modifiedItemIndicator": "#00a7db",
+    "settings.headerForeground": "#00a7db",
+    "breadcrumb.activeSelectionForeground": "#00a7db",
+    "menu.selectionForeground": "#00a7db",
+    "menubar.selectionForeground": "#00a7db",
+    "selection.background": "#00a7db",
+    "statusBarItem.remoteBackground": "#00a7db",
+    "gitDecoration.modifiedResourceForeground": "#00a7db",
+    "badge.background": "#00a7db",
+    "extensionButton.prominentForeground": "#00a7db",
+    "button.hoverBackground": "#00a7db",
+    "editorCodeLens.foreground": "#00a7db",
+    "inputOption.activeBackground": "#00a7db",
+    "checkbox.foreground": "#00a7db",
+    "settings.checkboxForeground": "#00a7db"
+  }
 }
